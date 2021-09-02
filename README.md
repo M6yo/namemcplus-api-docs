@@ -1,1 +1,1 @@
-# namemcplus-api-docs
+# NameMC+ API
