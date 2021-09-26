@@ -10,7 +10,7 @@ Welcome to the official documentation of the NameMC+ API!
 ``GET /capes/user/:uuid``
 - Returns a JSON of all capes owned by a UUID
 
-``GET /badges/user/:uuid``
+``GET /badges/:uuid``
 - Returns a JSON of all badges owned by a UUID
 
 ``GET /OFcapes``
